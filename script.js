@@ -27,6 +27,7 @@ const decimalToBinary = (input) => {
   // console.log("Remainders: ", remainders);
 
   // result.innerText = remainders.reverse().join("");
+  
 };
 
 const checkUserInput = () => {
